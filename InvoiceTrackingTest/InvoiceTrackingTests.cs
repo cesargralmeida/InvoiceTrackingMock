@@ -9,7 +9,7 @@ namespace InvoiceTrackingTest
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(true, true);
+            Assert.AreEqual(false, false);
         }
     }
 }
